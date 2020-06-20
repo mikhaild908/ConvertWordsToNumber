@@ -59,6 +59,7 @@ namespace ConvertWordsToNumber
             tokens.Add("hundred", 100L);
             tokens.Add("thousand", 1000L);
             tokens.Add("million", 1000000L);
+            tokens.Add("billion", 1000000000L);
 
             return tokens;
         }
@@ -70,6 +71,7 @@ namespace ConvertWordsToNumber
             multipliers.Add("hundred");
             multipliers.Add("thousand");
             multipliers.Add("million");
+            multipliers.Add("billion");
 
             return multipliers;
         }

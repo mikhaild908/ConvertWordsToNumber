@@ -8,3 +8,5 @@ Ex. one million two hundred thirty four thousand five hundred sixty seven -> 1,2
 2. Compile and run using the following commands:
   `dotnet build`
   `dotnet bin/Debug/[framework]/[binary name]`
+  
+  ![](convertwordstonumber.png)
